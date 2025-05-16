@@ -2,11 +2,24 @@ site_name: 程序员投资指南
 site_url: https://howtoinvest.zdyi.com/
 site_author: 老罗投资
 site_description: 程序员投资指南
+repo_url: "https://github.com/laoluotouzi/HowToInvest"
 copyright: >
   &copy; 老罗投资
 
 theme:
   # doc: https://sourcefoundry.org/cinder/
   name: cinder
-  custom_dir: overrides
+  colorscheme: dracula
+  custom_dir: cinder
   language: zh
+  colorscheme: github
+  highlightjs: true
+  hljs_languages:
+    - yaml
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+markdown_extensions:
+  - admonition
