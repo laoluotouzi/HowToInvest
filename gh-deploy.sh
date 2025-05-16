@@ -1,5 +1,4 @@
 #!/bin/bash
 
 mkdocs build -c -q
-cp ./README.md ./docs/README.md
-mkdocs gh-deploy -q
+cp -f ./REAMME.md ./site/REAMME.md
