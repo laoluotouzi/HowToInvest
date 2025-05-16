@@ -1,1 +1,1 @@
-{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[]}
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":".md-typeset .cover { display: none; } .md-typeset .cover + hr { display: none; } .md-typeset h1, .md-typeset h2 { color: navy; } \u5927\u9f84\u7a0b\u5e8f\u733f\u5199\u7740\u5199\u7740\u4ee3\u7801\u5c31\u88ab\u88c1\u5458\u4e86\uff0c\u5982\u4f55\u5e94\u5bf935\u5c81\u5371\u673a\uff1f","title":"\u9996\u9875"}]}
