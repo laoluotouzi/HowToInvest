@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp ./README.md ./overrides/README.md
+cp ./README.md ./site/README.md
 
 git pull
 git add -A
