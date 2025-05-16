@@ -1,11 +1,12 @@
 site_name: 程序员投资指南
 site_url: https://howtoinvest.zdyi.com/
-site_author: 老罗
+site_author: 老罗投资
 site_description: 程序员投资指南
 copyright: >
   &copy; 老罗投资
 
 theme:
-  name: readthedocs
+  # doc: https://sourcefoundry.org/cinder/
+  name: cinder
   custom_dir: overrides
   language: zh
